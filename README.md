@@ -1,6 +1,3 @@
-# Bob Gaynor
-Cybersecurity Professional | CISSP | Finding the signal in the noise
-
 ## About Me
 
 Building AI/ML tools to automate cybersecurity and threat detection.
