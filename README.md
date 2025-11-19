@@ -1,6 +1,6 @@
 # About Me
 
-**Finding the signal in noisy security data.**
+**Finding the signal in the noise.**
 
 I combine security expertise with machine learning to reveal hidden threat patterns and move detection toward predictive intelligence.
 
