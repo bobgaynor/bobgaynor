@@ -1,57 +1,33 @@
-## About Me
+# About Me
 
-Building AI/ML tools to automate cybersecurity and threat detection.  
-
-Combining cybersecurity expertise with data-driven modeling to uncover patterns and anomalies traditional tools miss, transforming threat detection from reactive defense into predictive intelligence.
-
----
-
-## Featured Projects
-
-### Cyber Threat Analyzer (CTA)
-Machine learning pipeline for detecting anomalies and potential threats in system logs, helping filter the noise to reveal actionable intelligence.  
-- [View Project](https://github.com/bobgaynor/cta)
-
-### Machine Learning Foundations
-A collection of small, focused projects designed to strengthen ML fundamentals.  
-
-Planned work includes *Titanic* classification, *House Prices* regression, and a model built from scratch.  
-- [View Repository](https://github.com/bobgaynor/ml-foundations)
-
-### PyTorch Journey
-Documenting my exploration through *AI and ML for Coders in PyTorch*.  
-
-Focused on deep learning concepts, experiments, and insights.  
-- [View Repository](https://github.com/bobgaynor/pytorchjourney)
+**Finding the signal in noisy security data.**  
+I combine security expertise with machine learning to reveal hidden threat patterns and move detection toward predictive intelligence.
 
 ---
 
-## Machine Learning Journey
-
-This journey is focused on building a strong foundation in machine learning through structured, hands-on exploration.
-
-**Milestone 1 - CTA Project**  
-Completed an end-to-end ML workflow involving data pipelines, modeling, and evaluation. This project set the foundation for deeper study.
-
-**Milestone 2 - Classic ML Foundations** *(in progress)*  
-Currently focused on strengthening machine learning intuition through hands-on projects.  
-
-Planned work includes the *Titanic* classification and *House Prices* regression datasets.
-
-**Milestone 3 - ML from Scratch** *(up next)*  
-Will build a simple regression model from scratch in NumPy to understand how predictions, errors, and model updates work.
-
-**Milestone 4 - PyTorch Journey** *(planned)*  
-Will document progress through *AI and ML for Coders in PyTorch* in the `pytorchjourney` repository, focusing on comprehension and experimentation.
-
-**Milestone 5 - Reflection and Growth** *(ongoing)*  
-Regularly documenting progress, connecting classical ML and deep learning concepts, and exploring new datasets and ideas.
+### Core Focus
+- **Machine Learning for Security** – Building end-to-end ML pipelines that parse logs, enrich data, engineer features, and surface subtle anomalies that traditional tools miss.  
+- **Threat Intelligence Analysis** – Collecting, organizing, and correlating threat intelligence with cybersecurity-relevant data to support predictive detection approaches.  
+- **Security Data Analysis** – Converting raw logs from diverse enterprise systems into actionable insight through structured workflows.
 
 ---
 
-## Current Focus
-- Building end-to-end ML pipelines for cybersecurity  
-- Strengthening classical ML intuition through hands-on projects  
-- Transitioning into deep learning with PyTorch  
+### Featured Projects
+- **CTA: Cyber Threat Analysis** – A reproducible machine-learning pipeline for detecting brute-force activity using log parsing, enrichment, feature engineering, and baseline modeling.  
+- **ML Foundations** – Core machine-learning projects including Titanic, House Prices, and ML-from-scratch exercises to build strong foundational skills.  
+- **PyTorch Journey** – A minimal sandbox for exploring deep-learning techniques and experiments.
 
-Always exploring new ways to combine insight with machine learning experimentation.
+---
+
+### Tech Stack
+**Python · Jupyter · Conda · Pandas · NumPy · scikit-learn**
+
+---
+
+### Workflow
+CI/CD workflow with GitHub Actions automating builds and updates for my portfolio site.
+
+---
+
+### Portfolio
+**https://BobGaynor.dev**
