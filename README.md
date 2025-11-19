@@ -27,8 +27,3 @@ I combine security expertise with machine learning to reveal hidden threat patte
 
 ### Workflow
 CI/CD workflow with GitHub Actions automating builds and updates for my portfolio site.
-
----
-
-### Portfolio
-**https://BobGaynor.dev**
