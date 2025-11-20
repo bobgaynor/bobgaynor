@@ -1,6 +1,6 @@
-# About Me
+# Finding the Signal
 
-I combine security expertise with machine learning to reveal hidden threat patterns and move detection toward predictive intelligence.
+Combining security expertise with machine learning to reveal hidden threat patterns and move detection toward predictive intelligence.
 
 ---
 
