@@ -1,6 +1,6 @@
-# Finding the Signal
+# ML & Security — Finding the Signal
 
-Combining security expertise with machine learning to reveal hidden threat patterns and move detection toward predictive intelligence.
+Working at the intersection of ML and security to uncover hidden patterns in noisy data and move detection toward predictive intelligence.
 
 ---
 
@@ -21,7 +21,7 @@ Analyzing system and network logs to identify anomalies and technical indicators
 
 Projects reflecting my focus on machine learning, data workflows, and security analysis.
 
-**CTA: Cyber Threat Analysis**  
+**Cyber Threat Analyzer (CTA)**  
 A reproducible machine-learning pipeline built to detect brute-force activity using structured log parsing, enrichment, feature engineering, and baseline modeling. Designed to demonstrate how data-driven workflows improve traditional analysis and provide a foundation for future predictive detection work.
 
 **bobgaynor-dev**  
