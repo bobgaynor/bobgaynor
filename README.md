@@ -2,4 +2,4 @@ AI Developer. Building AI products at [flowsyn ai](https://flowsyn.ai).
 
 Starting Georgia Tech's OMSCS program in Fall 2026.
 
-Writing about the journey at [From Scratch](https://bobgaynor.dev/blog).
+Building [prompt-vett](https://github.com/bobgaynor/prompt-vett) and writing about it at [bobgaynor.dev/blog](https://bobgaynor.dev/blog).
